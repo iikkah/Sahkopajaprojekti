@@ -2,7 +2,6 @@
 #include <Servo.h>
 
 
-//Remember to add servo controls
 // Define stepper motor connections and steps per revolution:
 #define dirPin0 22
 #define stepPin0 23
@@ -85,6 +84,8 @@ int canserve(){
     delayMicroseconds(1000);
   }
   int pos=0;
+  //This part of the code is unclear, since we weren't able to test or even get the servo we ordered
+  //There is a high chance that this part needs tweeking if we ever make the final product
 
   delay(1000);
   for (pos = 0; pos <= 80; pos += 1) { // goes from 0 degrees to 80 degrees
