@@ -1,3 +1,3 @@
 # Sahkopajaprojekti
 Sähköpajaprojektin Arduino-osio 
-Ohjelma tarvitsee Commlib-kirjaston. En laittanut sitä tänne, sillä se ei ole minun tekemäni.
+Ohjelma tarvitsee Commlib-kirjaston. Laitan sen myös tähän, mutta se ei ole minun tekemäni.
