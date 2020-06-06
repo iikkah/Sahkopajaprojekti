@@ -1,6 +1,6 @@
 #include <CommLib.h>
 #include <Servo.h>
-
+//This program uses DVR8825 chip to control the stepper motors, StepPin and DirPin are connected to the chip
 
 // Define stepper motor connections and steps per revolution:
 #define dirPin0 22
